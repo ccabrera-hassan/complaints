@@ -57,7 +57,7 @@ En caso de error, el archivo se traslada a File/error.
 
 .Implementar control de formato y manejo de excepciones, trasladando archivos con problemas a la carpeta de error.
 
-.Configurar niveles de logging para la generación de información.
+.Configurar niveles de logging y generación de archivo de log.
 
 .Implementar procesamiento en paralelo utilizando hilos para insertar datos en la base de datos.
 
