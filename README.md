@@ -64,3 +64,5 @@ En caso de error, el archivo se traslada a File/error.
 .Considerar la creación de una tabla de control en la base de datos para permitir la recuperación desde un punto específico en caso de errores durante el procesamiento por chunks.
 
 .Se puede agregar un archivo config.ini para que tome el numero de lineas que tomaran los chunk y no este hardcodeado en el codigo, igual con el esquema del archivo y las rutas. 
+
+.Agregar algunas transformaciones para aplicar al dataset, Ej: quitar los caracteres al id de folio.
